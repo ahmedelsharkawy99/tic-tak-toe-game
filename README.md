@@ -23,7 +23,7 @@ This is a simple Tic-Tac-Toe game built using React and Vite. It's a classic two
 
 ## Demo
 
-You can play the game online by visiting the [Tic-Tac-Toe Demo](#) (https://tic-tak-toe-game-five.vercel.app/).
+You can play the game online by visiting the [Tic-Tac-Toe Demo](https://tic-tak-toe-game-five.vercel.app/).
 
 ## Installation
 
